@@ -1,2 +1,2 @@
-# -java-sv2-daily-labs17
+# java-sv2-daily-labs17
 A tizenhetedik heti gyakorlati feladatok
